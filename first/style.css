@@ -19,3 +19,9 @@ header{
 .hLogo{
     background-color: coral;
 }
+.rs{
+    background-color: blue;
+    display: fixed;
+    right: 0;
+    top: 0;
+}
